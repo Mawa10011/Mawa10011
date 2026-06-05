@@ -19,5 +19,5 @@ I'm also currently interested in:
 Outside of engineering, some fun facts about me include:
 - 🐈‍⬛🐈‍⬛ I have 2 cats
 - 🎨 I enjoy painting and digital design
-- 📖 Reading and exploring new genres
+- 📖 I love reading and discovering new stories
 
