@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mawa**, a Computer Engineering student who studies at McMaster University.
+I'm **Mawa**, a Electrical Engineering student who studies at McMaster University.
 
 I enjoy building projects that combine both software and hardware components; including **embedded systems**, **electronics**, or **full-stack applications.**
 
